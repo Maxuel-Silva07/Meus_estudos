@@ -1,0 +1,40 @@
+body{
+    background: rgb(174, 174, 255);
+    font: normal 15pt Arial;
+ }
+ header{
+    color: white;
+    text-align: center;
+ }
+ section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    margin-top: 70px;
+    box-shadow: 5px 5px 10px rgba(99, 99, 99, 0.283);
+ }
+ button{
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 6px 10px;
+ }
+ button:hover{
+    background-color: rgb(227, 227, 236);
+ }
+ h1{
+    text-align: center;
+ }
+
+ footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+ }
+ #div-in{
+    text-align: center;
+ }
+ #clique{
+    display: inline;
+ }
